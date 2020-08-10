@@ -29,6 +29,10 @@ npm run build
 
 ### 技术栈
 
-vue、vue-router、element-ui、es6、less、axios
+vue+vue-router+element-ui+es6+less+axios
+
+
+
+
 
 
