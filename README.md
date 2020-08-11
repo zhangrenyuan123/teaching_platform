@@ -33,6 +33,10 @@ vue+vue-router+element-ui+es6+less+axios
 
 #### [后端接口](https://github.com/zhangrenyuan123/teaching_platform_api)
 
+### 运行环境
+
+本地安装 mysql 和 mongodb
+
 
 
 
